@@ -4,14 +4,14 @@
     box-sizing: border-box;
   }
 
-
-
-.top-elements{
+.navbar{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding-top: 40px;
     padding-bottom: 15px;
-
-
+    border: 1px solid red;
 }
+
+  .top-menu{
+    display: flex;
+    gap: 50px;
+  }
