@@ -18,18 +18,18 @@
 
   .main-components{
     display: flex;
-    background-color: gray;
-    padding-top: 10px;
+    background-color: aqua;
+    height: 800px;
+    padding-top: 30px;
   }
 
   .left-side{
     width: 65%;
     height: auto;
-    padding-right: 10%;
+    padding-right: 20%;
 
   }
 
   .right-side{
-
     width: 35%;
   }
