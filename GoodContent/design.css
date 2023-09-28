@@ -4,6 +4,10 @@
     box-sizing: border-box;
   }
 
+  .container{
+  width: 80%;
+  }
+
 .navbar{
     display: flex;
     padding-top: 40px;
@@ -33,12 +37,12 @@
     width: 35%;
   }
 
-  .form-element{
+    .form-element{
 
-  margin-bottom: 10px; 
-  width: 60%;
-  height: 40px;
-  border: 0.1px solid gray;
-  border-radius: 10px;
+    margin-bottom: 10px; 
+    width: 60%;
+    height: 40px;
+    border: 0.1px solid gray;
+    border-radius: 10px;
 
-  }
+    }
