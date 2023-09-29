@@ -4,15 +4,11 @@
     box-sizing: border-box;
   }
 
-  .container{
-  width: 80%;
-  }
 
 .navbar{
     display: flex;
     padding-top: 40px;
     padding-bottom: 15px;
-    border: 1px solid red;
 }
 
   .top-menu{
@@ -22,7 +18,6 @@
 
   .main-components{
     display: flex;
-    background-color: aqua;
     height: 800px;
     padding-top: 30px;
   }
